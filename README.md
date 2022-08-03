@@ -10,10 +10,10 @@ You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/downl
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/cchenze/photography_portfolio.git
+$ git clone https://github.com/cchenze/assignment_tracker.git
 
 # Go into the repository
-$ cd photography_portfolio
+$ cd assignment_tracker
 
 # Install dependencies
 $ npm install
