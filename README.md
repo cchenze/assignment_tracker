@@ -1,8 +1,10 @@
-# College Assignment Tracker  
+# Student Assignment Tracker
 
-A CRUD react app for college students to track their assignments
+## Description
 
-## Website Link
+I always wanted to create an assignment tracker based on my preferences, so I built this web app with the CRUD operations (Create, Read, Update, Delete). The app works fine, but the layout and functionality can be further improved.
+
+## Live Demo
 https://worktrack.netlify.app/
 
 ![](demo-1.png)
