@@ -10,7 +10,7 @@ https://worktrack.netlify.app/
 ![](demo-1.png)
 ![](demo-2.png)
 
-## How to Install and Run the Project
+## Installation
 You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
